@@ -8,6 +8,9 @@ Tenemos 3 escenarios para este dato:
 2. validar si esl rut chileno es valido
 3. formatear Rut
 
-HTML 5 Validacion con REGEX
+Validacion REGEX
+
+Regex: [0-9]{3,8}-[0-9kK]{1}
+
 
 
