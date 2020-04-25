@@ -1,8 +1,8 @@
-# js-validacion-formularios
-Compartir mis notas como programador Full Stack.
+# Notas como Programador
+Compartir mis notas como programador y presentar una wiki de ayuda
 
-Revisar Wiki
-https://github.com/manuhernandezcl/js-validacion-formularios.wiki.git
+Revisar Wiki:
+
 
 
 
